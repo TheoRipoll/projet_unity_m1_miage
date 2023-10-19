@@ -44,8 +44,9 @@ Sur la branche "déplacement_joueur", vous trouverez un projet Unity qui présen
     "S" = Reculer
     "D" = Avancer à droite
     "Espace" = Sauter
-Maintenir "Left Shift" pour courrir
-Regarder autour de soi avec la souris
+
+    Maintenir "Left Shift" pour courrir
+    Regarder autour de soi avec la souris
 
 
 
