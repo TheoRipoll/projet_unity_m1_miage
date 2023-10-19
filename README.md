@@ -37,14 +37,13 @@ en 5 étapes :
 
 Sur la branche "déplacement_joueur", vous trouverez un projet Unity qui présente un avatar simpliste que l'utilisateur peut contrôler dans deux pièces
 
-##Commandes :
-###Déplacements : 
-    - "Z" = Avancer
-    - "Q" = Avancer à gauche
+## Commandes :
+### Déplacements : 
+    "Z" = Avancer
+    "Q" = Avancer à gauche
     - "S" = Reculer
     - "D" = Avancer à droite
     - "Espace" = Sauter
-
 Maintenir "Left Shift" pour courrir
 Regarder autour de soi avec la souris
 
