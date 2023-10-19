@@ -34,6 +34,7 @@ en 5 étapes :
 
 
 # Sprint 1 : Prise en main des outils et prototype 
+## (9 octobre - 24 octobre) 2 semaines
 
 Sur la branche "déplacement_joueur", vous trouverez un projet Unity qui présente un avatar simpliste que l'utilisateur peut contrôler dans deux pièces
 
