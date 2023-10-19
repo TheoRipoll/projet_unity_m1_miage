@@ -31,3 +31,22 @@ en 5 étapes :
 
 ## Etape 5 : Préparation soutenances et rapport 
 ### ( 8 janvier - 15 janvier ) 1 semaine
+
+
+# Sprint 1 : Prise en main des outils et prototype 
+
+Sur la branche "déplacement_joueur", vous trouverez un projet Unity qui présente un avatar simpliste que l'utilisateur peut contrôler dans deux pièces
+
+##Commandes :
+###Déplacements : 
+    - "Z" = Avancer
+    - "Q" = Avancer à gauche
+    - "S" = Reculer
+    - "D" = Avancer à droite
+    - "Espace" = Sauter
+
+Maintenir "Left Shift" pour courrir
+Regarder autour de soi avec la souris
+
+
+
