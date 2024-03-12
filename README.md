@@ -5,7 +5,7 @@ Participant
 - Julien BRUNETTI
 - Mohamed Gando DIALLO
 - Jeremie BREZZO
-- Moona AAROUR
+- Mouna AAROUR
 - Théo RIPOLL
 
 ## Introduction
