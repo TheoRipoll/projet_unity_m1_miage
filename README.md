@@ -3,7 +3,7 @@
 Participant
 - Evan GALLICE
 - Julien BRUNETTI
-- Mohamed Gando DIALLO
+- Mouhamed Gando DIALLO
 - Jeremie BREZZO
 - Mouna AAROUR
 - Théo RIPOLL
