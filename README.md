@@ -50,9 +50,11 @@ Participant
 ### Amélioration de la zone D (Structure)
 
 Avant :
+
 ![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/fc4fa757-7118-4e87-9efd-ece5dbba727a)
 
-Avec : 
+Avec :
+
 ![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/c520e1c6-427a-49b0-98e9-7752038d1e6a)
 
 ### Remarque à la fin su Sprint 1
