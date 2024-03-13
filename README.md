@@ -15,33 +15,32 @@ Participant
 ## Planning SPRINT
   Le planning evoluera si necéssaire 
 
-  Dernière modification : 12/03/2024 :
+  Dernière modification : 13/03/2024 :
 
 ### Sprint 1 -> début - 12 mars
-  - Amélioration des zones A, C, D et E (RDC) Structure + Textures
-  - Commencement création des meubles
-  - Fonctionnalités meubles
+  - Amélioration de la zone D
 
 ### Sprint 2 -> 13 mars - 2 Avril 
-  - Amélioration des zones A, C, D et E (ÉTAGE) Structure + Textures
-  - Finalisation des meubles
-  - Fonctionnalités meubles suite
+  - Amélioration des zones A, C, D et E
+  - Création Objets
+  - Skybox
+  - VR
 
 ### Sprint 3 -> 3 Avril - 30 avril
   - Modélisation extérieur
   - Multijoueur
   - VR
-  - Skybox
 
 ### Sprint 4 -> 1er mai - 21 mai
   - Multijoueur
   - VR
   - Photo sphere viewer
+  - Exportation babylon.JS
 
 ### Sprint 5 -> 22 mai - 11 Juin
   - Multijoueur
   - VR
-  - Exportation babylon.JS
+
 
 ### Livrables et Soutenance - > 11 Juin
 
