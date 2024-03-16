@@ -69,3 +69,13 @@ Avec :
 ## SPRINT 2
 
 en cours
+
+### Création d'objets
+
+#### Distributeurs
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/0e971089-f751-42f5-9706-c59ee3075139)
+
+#### Ordinateur portable
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/6ef89d89-ecbb-4197-9e10-59d8b32ffff9)
