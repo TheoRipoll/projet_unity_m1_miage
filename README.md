@@ -44,9 +44,27 @@ Participant
 
 ### Livrables et Soutenance - > 11 Juin
 
-## SPRINT 1 
+## Modélisation
 
-### Amélioration de la zone D (Structure)
+### Création de textures
+
+Certaines textures ont été crée sur blender a partir de photos que nous avons pris
+
+Mur exterieur Rose
+
+![mur_ext_rose](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/ac18c08b-a2f3-426b-bea2-54b905b9e119)
+
+Facade exterieure grise
+
+![mur_ext](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/5a8c6c28-f79b-495d-bbca-8f089705edd9)
+
+Un exemple de sol
+
+![sol_1_1](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/1059fd88-8f23-429a-b67b-b0cedc7bc9c7)
+
+### Zone D
+
+#### Amélioration de la structure
 
 Avant :
 
@@ -56,19 +74,47 @@ Avec :
 
 ![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/c520e1c6-427a-49b0-98e9-7752038d1e6a)
 
-### Remarque à la fin su Sprint 1
+#### Ajouts Textures + Portes
 
-- Commencer la réalité virtuelle plus tôt. 
-- Alimenter le git (hors unity) 
-- Adapter le découpage en sprint 
-- Commencer la skybox plus tôt également (on ira se renseigner pour l’appareil photo demain)
-- Ajouter les détails (couloirs etc)
-- Faire un grand fichier texture (chaque étage par ex)
-- Pensez à échanger les tâches de manière à ce que tout le monde ait les mêmes compétences
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/80ff07c9-3f51-4f42-b3d7-c32ed4448515)
 
-## SPRINT 2
+### Zone A
 
-en cours
+#### Amélioration de la structure + textures
+
+Avant : 
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/fccbd15e-6e23-4eb9-a6a9-4b2ecac245d7)
+
+Après : 
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/cf0f4eec-c9e1-4a1f-a17b-c9f294372332)
+
+##### Ajouts des portes
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/0d43217a-0467-4902-b0db-ce3c5fe30d79)
+
+### Zone C
+
+#### Amélioration de la structure + Portes + Texture murs
+
+Avant : 
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/6a98cd1e-ee43-45aa-a154-119e7361906f)
+
+Après : 
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/ead67192-2403-44d7-8696-17ab69efdbe5)
+
+### Zone E
+
+#### Amélioration de la structure
+
+Avant : 
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/b379acf0-2d0f-4a46-aa33-002b85c1300f)
+
+Après :
 
 ### Création d'objets
 
@@ -79,3 +125,7 @@ en cours
 #### Ordinateur portable
 
 ![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/6ef89d89-ecbb-4197-9e10-59d8b32ffff9)
+
+#### Poubelles exterieures
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/19a70b09-13ff-45c6-b55a-621d2ad987d9)
