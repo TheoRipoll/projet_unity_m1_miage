@@ -48,7 +48,7 @@ Participant
 
 ### Création de textures
 
-Certaines textures ont été crée sur blender a partir de photos que nous avons pris
+Certaines textures ont été crée sur blender a partir de photos
 
 Mur exterieur Rose
 
