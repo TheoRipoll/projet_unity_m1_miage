@@ -129,3 +129,15 @@ Après :
 #### Poubelles exterieures
 
 ![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/19a70b09-13ff-45c6-b55a-621d2ad987d9)
+
+
+
+### Skybox
+
+Après avoir pris des photos de bonnes qualités sur le toit et l'utilisation du logiciel Hugin, nous avons obtenu ceci visualisable sur GIMP :
+
+![image](https://github.com/TheoRipoll/projet_unity_m1_miage/assets/90628991/d63bcb82-6ea4-42a7-8fd8-24294dedadb9)
+
+A voir si nous pouvons transformer ça en une texture pour une sphere (pour une skybox)
+
+
