@@ -12,6 +12,9 @@ Participant
 
   Le projet consiste à élablorer un prototype permettant d'explorer le batiment de la MIAGE en réalité virtuel (ou non) tout en interagissant avec son environnement.
 
+## Liens utiles
+  - Liens vers le rapport : https://docs.google.com/document/d/17G_GLSATIBvbYLG-AtRPwwdc2bQESqvjhLDxA1D2Kmg/edit?usp=sharing
+
 ## Planning SPRINT
   Le planning evoluera si necéssaire 
 
@@ -40,7 +43,6 @@ Participant
 ### Sprint 5 -> 22 mai - 11 Juin
   - Multijoueur
   - VR
-
 
 ### Livrables et Soutenance - > 11 Juin
 
