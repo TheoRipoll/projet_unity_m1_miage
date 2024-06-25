@@ -14,7 +14,8 @@ Participant
 
 ## Liens utiles
   - Liens vers le rapport : https://docs.google.com/document/d/17G_GLSATIBvbYLG-AtRPwwdc2bQESqvjhLDxA1D2Kmg/edit?usp=sharing
-  - Lens vers le projet sur onedrive : https://drive.google.com/file/d/1PTYdiWTJyFNt_QvJKkfDoUKBgcDJDyc1/view?usp=sharing
+  - Liens vers l'exécutable : https://drive.google.com/file/d/1zjbTVOgwd5JgtBIC0rgdrQ7I0VPOXaOA/view?usp=sharing
+  - Lens vers le projet : https://drive.google.com/file/d/1PTYdiWTJyFNt_QvJKkfDoUKBgcDJDyc1/view?usp=sharing
 
 ## Planning SPRINT
   Le planning evoluera si necéssaire 
